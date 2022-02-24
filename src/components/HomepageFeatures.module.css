@@ -1,0 +1,23 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  float: left;
+  vertical-align: middle;
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
+
+.featureText {
+  color: #152e51;
+  font-size: 1rem;
+}
+
+.featureRow {
+  justify-content: left;
+}
