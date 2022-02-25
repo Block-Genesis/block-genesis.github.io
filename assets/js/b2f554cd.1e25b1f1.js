@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpendle_documentation=self.webpackChunkpendle_documentation||[]).push([[477],{10:function(e){e.exports={blogPosts:[]}}}]);
